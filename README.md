@@ -6,9 +6,6 @@ Ferramentas utilizadas para o desenvolvimento:
 * Angular 15.2.0
 * Bootstrap 5
 
-
-Comandos para rodar a aplicação:
-
 ## Development server
 Executar o comando `npm install`.
 
