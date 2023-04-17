@@ -1,0 +1,15 @@
+<div class="wrapper">
+    <div class="container">
+        <div class="page-header">Cardápio</div>
+        <div class="card">
+            <div class="card-body">
+                <div *ngFor="let item of products">
+                    <app-item-cardapio [item]="item"></app-item-cardapio>
+                </div>
+            </div>
+          </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,14 @@
+<div class="avaliacoes">
+    <h2>Avaliações da Cafeteria</h2>
+    <ul>
+      <li *ngFor="let a of avaliacoes">
+        <div class="av">
+          <div class="av-comentario">
+            <p>{{ a.comentario }}</p>
+            <p>Por: {{ a.nome }} em {{ a.data | date: 'dd/MM/yyyy' }}</p>
+          </div>
+        </div>
+      </li>
+    </ul>
+</div>
+  

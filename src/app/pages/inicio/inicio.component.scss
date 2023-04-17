@@ -1,0 +1,18 @@
+#carouselHome {
+    .carousel-inner {
+        height: 500px;
+    }
+}
+
+.maps {
+    iframe {
+        width: 100%;
+        min-height: 400px;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+.avaliacoes {
+    margin-top: 15px;
+}
