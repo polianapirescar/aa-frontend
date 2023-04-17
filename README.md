@@ -1,10 +1,10 @@
 # Atividade Ativa - Construção de FrontEnd - IESB 2023
 
 Ferramentas utilizadas para o desenvolvimento:
-    - Visual Studio Code
-    - Angular CLI 15.2.6
-    - Angular 15.2.0
-    - Bootstrap 5
+⋅⋅* Visual Studio Code
+⋅⋅* Angular CLI 15.2.6
+⋅⋅* Angular 15.2.0
+⋅⋅* Bootstrap 5
 
 
 Comandos para rodar a aplicação:
